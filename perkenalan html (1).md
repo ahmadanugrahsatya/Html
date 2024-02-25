@@ -622,6 +622,9 @@ Hasil dari program di atas:
         </form>
 ```
 
+hasil dari program di atas:
+![](aset/ss58.png)
+
 1. `<form>` tag ini digunakan untuk mengumpulkan inputan dari penggunaan website.
 2. `<label>` tag ini merupakan tag yang didalam tag `<form>` yang berfungsi untuk melakukan penginputan di web.
 3. `<br>` digunakan untuk membuat baris baru
@@ -630,6 +633,7 @@ Hasil dari program di atas:
 6. `required` merupakan atribut yang digunakan untuk memberikan sebuah 
 7. untuk `nama`, `password`,`jenis_kelamin`, `web`, `mobile`, `desktop` itu merupakan nilai dari sebuah atribut yaitu atribut `for`
 8. dan untuk  `text`, `password`, `radio`, `chekbox`, `submit` merupakan nilai dari sebuah atribut yaitu atribut `type`
+
 
 ### Bagaimana Cara Memproses Form?
 
